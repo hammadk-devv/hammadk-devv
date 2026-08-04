@@ -98,21 +98,73 @@ I believe great software is built by balancing simplicity, performance, and long
 
 ---
 
-## GitHub Statistics
+## Featured Products
 
-<p align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=hammadk-devv&show_icons=true&hide_border=true&rank_icon=github&theme=github_dark"
-    alt="GitHub Stats"
-  />
+<table>
+<tr>
+<td align="center" width="50%">
 
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hammadk-devv&layout=compact&hide_border=true&theme=github_dark"
-    alt="Top Languages"
-  />
-</p>
+<a href="https://github.com/hammadk-devv/TexVision-Pro">
+
+<img src="./assets/featured/texvision.png">
+
+</a>
+
+### TexVision-Pro
+
+Industrial Computer Vision Platform
+
+</td>
+
+<td align="center" width="50%">
+
+<a href="https://github.com/hammadk-devv/cadence-mart">
+
+<img src="./assets/featured/cadence-mart.png">
+
+</a>
+
+### Cadence Mart
+
+Production MERN E-Commerce Platform
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+<a href="https://github.com/hammadk-devv/AI-Infrastructure-MultiModel-LLM-Gateway">
+
+<img src="./assets/featured/ai-gateway.png">
+
+</a>
+
+### AI Infrastructure Gateway
+
+Multi-Model LLM Platform
+
+</td>
+
+<td align="center">
+
+<a href="https://github.com/hammadk-devv/portfolio">
+
+<img src="./assets/featured/portfolio.png">
+
+</a>
+
+### Portfolio
+
+Software Engineering Portfolio
+
+</td>
+
+</tr>
+
+</table>
 ---
 
 ## Connect
