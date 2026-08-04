@@ -101,13 +101,18 @@ I believe great software is built by balancing simplicity, performance, and long
 ## GitHub Statistics
 
 <p align="center">
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=hammadk-devv&show_icons=true&hide_border=true&rank_icon=github&theme=github_dark"
+    alt="GitHub Stats"
+  />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=hammadk-devv&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hammadk-devv&layout=compact&hide_border=true"/>
-
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hammadk-devv&layout=compact&hide_border=true&theme=github_dark"
+    alt="Top Languages"
+  />
 </p>
-
 ---
 
 ## Connect
